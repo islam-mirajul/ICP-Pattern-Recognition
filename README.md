@@ -1,4 +1,4 @@
-# ICProject: Machine Learning for UGV Design Regression Analysis and Classification
+# ICProject: Machine Learning Based Regression Analysis and Classification of Unmanned Ground Vehicle (UGV) Designs
 
 Welcome to the repository for my ICProject! This project leverages machine learning to analyze and classify Unmanned Ground Vehicles (UGVs) based on their design specifications and performance metrics. Below, you'll find an overview of the project, key objectives, instructions for replicating results, and references.
 
