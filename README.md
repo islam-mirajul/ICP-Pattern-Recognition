@@ -19,7 +19,7 @@ Regression Analysis for Operational Range Prediction
 Build regression models to predict the operational range of UGVs based on other performance metrics.
 
 
-![URL link:Video Presentation]( )
+# ![URL link:Video Presentation]( )
 
 # Steps to Replicate
 
