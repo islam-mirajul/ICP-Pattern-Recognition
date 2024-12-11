@@ -19,7 +19,7 @@ Regression Analysis for Operational Range Prediction
 Build regression models to predict the operational range of UGVs based on other performance metrics.
 
 
-![PDF Preview](https://github.com/islam-mirajul/ICP-Pattern-Recognition/blob/main/ICP%20Slide_Mirajul%20Islam.pdf)
+![URL link:Video Presentation]( )
 
 
 Acknowledgement: In certain instances, this project employs the scikit-learn library for specific analyses. For further details, please refer to the official scikit-learn website: [https://scikit-learn.org/stable/].
