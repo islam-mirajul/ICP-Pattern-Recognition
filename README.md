@@ -20,5 +20,6 @@ Build regression models to predict the operational range of UGVs based on other 
 
 
 Acknowledgement
+
 In certain instances, this project employs the scikit-learn library for specific analyses. For further details, please refer to the official scikit-learn website: [https://scikit-learn.org/stable/].
 
