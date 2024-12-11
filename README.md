@@ -22,9 +22,13 @@ Build regression models to predict the operational range of UGVs based on other 
 ![URL link:Video Presentation]( )
 
 # Steps to Replicate
+
 Download the Repository: Clone or download the ZIP file.
+
 Load the Dataset: Open ICP_Data.csv in your notebook.
+
 Run Notebooks:
+
        Open and execute ICP_Classification.ipynb
        Open and execute ICP_Regression.ipynb
 
