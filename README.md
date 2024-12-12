@@ -75,7 +75,8 @@ Fig 5. PCA Visualization of UGV Performance Classes: Pre- and Post-Clustering
 ![image](https://github.com/user-attachments/assets/aa820745-844b-430f-9c79-22244545d101)
 Fig 6. UGV Design Clustering with Convex Hulls and Ellipses in 2D PCA Space
 ![image](https://github.com/user-attachments/assets/c1e382ee-7bc6-47dd-bc0a-919524a0964b)
-![image](https://github.com/user-attachments/assets/9a4837e9-b4cd-4d4a-bbc7-06d537230693)
+Fig 7. Pie Chart Distribution of UGV Designs
+![image](https://github.com/user-attachments/assets/c4001483-9a73-41b6-9f66-e1c9345f7eb8)
 
 PCA (Principal Component Analysis) is used here to reduce the dimensionality of the data, making it easier to visualize and interpret. 
 
