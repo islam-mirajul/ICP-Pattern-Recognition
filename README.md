@@ -20,11 +20,15 @@ Build regression models to predict the operational range of UGVs based on other 
 
 # Report
 Background, Baselines, and Approach
+
 We are exploring new methods to reduce both the cost and time associated with computer-based simulations of physical systems. As part of this effort, we aim to evaluate and compare models for regression and classification tasks, focusing on minimizing errors (MAE, MSE, RMSE, R²) and maximizing performance metrics (accuracy, precision, recall, F1 score). 
+
 This approach involves exploring a variety of machine learning models, including third-party and custom models to predict and optimize simulation parameters, aiming for faster and more cost-effective simulation results.
 
 Baseline Methods
+
 For regression: Mean, Median, Persistence, Zero, and Decile-based predictions.
+
 For classification: Most Frequent Class, Random Classifier, and Stratified Classifier.
 
 
