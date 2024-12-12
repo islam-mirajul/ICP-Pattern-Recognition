@@ -55,30 +55,35 @@ Fig 3. Top Features by Importance using Random Forest Regressor
 
 ## Methodology - Regression Analysis
 Sklearn Models
-Support Vector Regression
-Random Forest Regressor
-Gradient Boosting Regressor
-Lasso Regression
+
+Support Vector Regression,
+Random Forest Regressor,
+Gradient Boosting Regressor,
+Lasso Regression,
 Ridge Regression 
 
 Custom Model
+
 Custom Bayesian Linear Regression
 
 Baselines Custom Methods
-Mean Prediction
-Median Prediction
-Persistence Model (Last Value Prediction)
-Zero Prediction
+
+Mean Prediction,
+Median Prediction,
+Persistence Model (Last Value Prediction),
+Zero Prediction,
 Decile-based Prediction: This predicts the decile (10% intervals) of the target values
 
- Performance metrics are calculated:
- Mean Absolute Error (MAE)
- Mean Squared Error (MSE)
- Root Mean Squared Error (RMSE)
- R-squared (R²)
+Performance metrics are calculated:
 
- Performance Visualizations:
- Actual vs. Predicted values for each model
+Mean Absolute Error (MAE),
+Mean Squared Error (MSE),
+Root Mean Squared Error (RMSE),
+R-squared (R²)
+
+Performance Visualizations:
+
+Actual vs. Predicted values for each model
 
 
 
