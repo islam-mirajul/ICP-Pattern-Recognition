@@ -43,7 +43,8 @@ Table 1. Dataset Overview
 
 
 Dataset Splits
-![image](https://github.com/user-attachments/assets/67246590-aeb6-4b82-acb9-e9295cf74a2d)
+<img width="1154" alt="image" src="https://github.com/user-attachments/assets/8e2795dd-23ae-4b2b-8e32-588b2e42b064" />
+
 
 ## Data Analysis for Regression
 
