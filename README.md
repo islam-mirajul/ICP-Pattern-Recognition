@@ -129,5 +129,6 @@ Run Notebooks:
        Open and execute ICP_Classification.ipynb
        Open and execute ICP_Regression.ipynb
 
-Acknowledgement: In certain instances, this project employs the scikit-learn library for specific analyses. For further details, please refer to the official scikit-learn website: [https://scikit-learn.org/stable/].
+### Acknowledgement:
+In certain instances, this project employs the scikit-learn library for specific analyses. For further details, please refer to the official scikit-learn website: [https://scikit-learn.org/stable/].
 
