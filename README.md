@@ -75,6 +75,7 @@ Fig 5. PCA Visualization of UGV Performance Classes: Pre- and Post-Clustering
 ![image](https://github.com/user-attachments/assets/aa820745-844b-430f-9c79-22244545d101)
 Fig 6. UGV Design Clustering with Convex Hulls and Ellipses in 2D PCA Space
 ![image](https://github.com/user-attachments/assets/c1e382ee-7bc6-47dd-bc0a-919524a0964b)
+
 Fig 7. Pie Chart Distribution of UGV Designs
 ![image](https://github.com/user-attachments/assets/c4001483-9a73-41b6-9f66-e1c9345f7eb8)
 
