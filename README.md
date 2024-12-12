@@ -38,7 +38,9 @@ For classification: Most Frequent Class, Random Classifier, and Stratified Class
 
 ## Dataset Overview
 Table 1. Dataset Overview
-![image](https://github.com/user-attachments/assets/75689d30-1ba5-414a-b1fc-882fcc642cf1)
+<img width="1451" alt="image" src="https://github.com/user-attachments/assets/9acb12a6-ed03-49be-bdbd-2359bcc7cd2d" />
+
+
 
 Dataset Splits
 ![image](https://github.com/user-attachments/assets/67246590-aeb6-4b82-acb9-e9295cf74a2d)
@@ -52,7 +54,35 @@ Fig 3. Top Features by Importance using Random Forest Regressor
 ![image](https://github.com/user-attachments/assets/7251c6ff-bd45-421c-898b-073324b51fa6)
 
 ## Methodology - Regression Analysis
-![image](https://github.com/user-attachments/assets/012ceb50-aa3b-47b2-add6-79557a303cc0)
+Sklearn Models
+Support Vector Regression
+Random Forest Regressor
+Gradient Boosting Regressor
+Lasso Regression
+Ridge Regression 
+
+Custom Model
+Custom Bayesian Linear Regression
+
+Baselines Custom Methods
+Mean Prediction
+Median Prediction
+Persistence Model (Last Value Prediction)
+Zero Prediction
+Decile-based Prediction: This predicts the decile (10% intervals) of the target values
+
+ Performance metrics are calculated:
+ Mean Absolute Error (MAE)
+ Mean Squared Error (MSE)
+ Root Mean Squared Error (RMSE)
+ R-squared (R²)
+
+ Performance Visualizations:
+ Actual vs. Predicted values for each model
+
+
+
+
 
 ## Results-Regression Analysis
 Table 2: Model Performance Metrics Comparison
