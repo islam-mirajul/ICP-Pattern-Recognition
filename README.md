@@ -19,7 +19,7 @@ Regression Analysis for Operational Range Prediction
 Build regression models to predict the operational range of UGVs based on other performance metrics.
 
 # Report
-Background, Baselines, and Approach
+## Background, Baselines, and Approach
 
 We are exploring new methods to reduce both the cost and time associated with computer-based simulations of physical systems. As part of this effort, we aim to evaluate and compare models for regression and classification tasks, focusing on minimizing errors (MAE, MSE, RMSE, R²) and maximizing performance metrics (accuracy, precision, recall, F1 score). 
 
