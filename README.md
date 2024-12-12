@@ -31,6 +31,9 @@ For regression: Mean, Median, Persistence, Zero, and Decile-based predictions.
 
 For classification: Most Frequent Class, Random Classifier, and Stratified Classifier.
 
+## Dataset Overview![image](https://github.com/user-attachments/assets/93f2c7a8-49b4-4141-bd63-d4f17a74a24f)
+
+
 
 
 # ![URL link:Video Presentation]( )
