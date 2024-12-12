@@ -54,7 +54,7 @@ Fig 3. Top Features by Importance using Random Forest Regressor
 ![image](https://github.com/user-attachments/assets/7251c6ff-bd45-421c-898b-073324b51fa6)
 
 ## Methodology - Regression Analysis
-Sklearn Models
+Sklearn Models:
 
 Support Vector Regression,
 Random Forest Regressor,
@@ -62,11 +62,11 @@ Gradient Boosting Regressor,
 Lasso Regression,
 Ridge Regression 
 
-Custom Model
+Custom Model:
 
 Custom Bayesian Linear Regression
 
-Baselines Custom Methods
+Baselines Custom Methods:
 
 Mean Prediction,
 Median Prediction,
@@ -91,7 +91,7 @@ Actual vs. Predicted values for each model
 
 ## Results-Regression Analysis
 Table 2: Model Performance Metrics Comparison
-![image](https://github.com/user-attachments/assets/ccd37279-1e7c-4039-b52d-453c9c398d71)
+<img width="1187" alt="image" src="https://github.com/user-attachments/assets/401fb2a6-d86e-46ad-96ae-d2815ada9796" />
 Custom Bayesian Linear Regression is the best overall performer
 
 Fig 4. Actual vs Predicted Operational Range
@@ -121,11 +121,44 @@ PCA (Principal Component Analysis) is used here to reduce the dimensionality of 
 Convex Hulls define the outer boundary of each class, showing the region containing all points. Ellipses visualize the spread and orientation of the class data, reflecting the distribution and variance within the 2D PCA space.
 
 ## Methodology - Classification
-![image](https://github.com/user-attachments/assets/3f229add-c70f-41cd-9b6b-82933cbc32ea)
+
+Custom Models:
+
+Custom Linear Discriminant Analysis (LDA),
+Custom Quadratic Discriminant Analysis (QDA)
+
+Sklearn Models:
+
+Support Vector Machine Classifier,
+Gaussian Process Classifier,
+Random Forest Classifier,
+Gradient Boosting Classifier,
+Fisher's Linear Discriminant,
+Logistic Regression,
+Perceptron,
+Naive Bayes Classifier,
+Stochastic Gradient Descent Classifier
+
+Baseline Sklearn Models:
+
+Baseline Model (Most Frequent Class),
+Random Classifier,
+Stratified Classifier
+
+Performance Metrics:
+
+Classification Report
+
+Accuracy,
+Precision (weighted average),
+Recall (weighted average),
+F1 Score (weighted average)
+
+Confusion Matrix
 
 ## Results-Classification
 Table 3. Model’s Performance Comparison
-![image](https://github.com/user-attachments/assets/71702c4e-4393-43e5-9cb8-c9e177059f83)
+<img width="1245" alt="image" src="https://github.com/user-attachments/assets/9f1cd13f-40e2-409d-8f92-6e82c068e391" />
 Custom LDA and Custom QDA both have perfect scores (Accuracy: 1.0000, Precision: 1.0000, Recall: 1.0000, F1 Score: 1.0000), making them the best performers.
 
 Fig 7. Confusion Matrix for all classification task models
