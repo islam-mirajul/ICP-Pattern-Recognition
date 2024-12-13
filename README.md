@@ -187,7 +187,7 @@ Regression Task: The Bayesian Linear Regression model achieved competitive resul
 Classification Task: Custom models, particularly Custom LDA and Custom QDA, achieved perfect performance with an accuracy, precision, recall, and F1 score of 1.0000, outperforming all other models. Among third-party models, Random Forest Classifier and Gradient Boosting Classifier achieved near-perfect performance (∼99.89%), making them strong contenders.
 
 
-# [![Video Presentation](https://img.youtube.com/vi/1fTQpnL2gUg/0.jpg)](https://youtu.be/1fTQpnL2gUg)
+# Video Presentation [![Video Presentation](https://img.youtube.com/vi/1fTQpnL2gUg/0.jpg)](https://youtu.be/1fTQpnL2gUg)
 
 # Steps to Replicate
 
